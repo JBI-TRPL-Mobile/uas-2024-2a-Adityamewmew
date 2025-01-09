@@ -1,18 +1,44 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6dbs_zXm)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17646015&assignment_repo_type=AssignmentRepo)
-# template_project
+NAMA : Aditya Purnama Herlambang
+NIM  : 362358302009
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Tampilan dari welcome.dart.Tampilan awal untuk signup atau login
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2025-01-09 180716](https://github.com/user-attachments/assets/d7d0df3d-aaac-44f5-a829-53b987b729de)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+SIGNUP
+![Screenshot 2025-01-09 180759](https://github.com/user-attachments/assets/a2779dc6-3c7b-4e6f-8339-79e00ba8fdd2)
+
+
+
+LOGIN
+![Screenshot 2025-01-09 180821](https://github.com/user-attachments/assets/ab80bdf6-f111-48eb-95db-532fde488712)
+
+
+
+HOMESCREEN.Tampilan jjika sudah login
+![Screenshot 2025-01-09 180835](https://github.com/user-attachments/assets/103d3bc8-25d3-4d6b-bc99-ffb1e2bef3e8)
+
+
+
+MASSAGES SCREEN
+![Screenshot 2025-01-09 180841](https://github.com/user-attachments/assets/25860166-730e-4e35-956d-573965c91e8a)
+
+
+
+PROFILE & LOG OUT
+
+![Screenshot 2025-01-09 180857](https://github.com/user-attachments/assets/f5c49c2a-5c1c-4ee3-acec-a2506d75dba5)
+
+
+![Screenshot 2025-01-09 180902](https://github.com/user-attachments/assets/8f7984c1-9bb8-4e5f-a8f2-e45d1316fcad)
+
+
+
+
+
+
+
